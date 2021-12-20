@@ -5,4 +5,4 @@ A database project about making a database for an fictional restaurant. In this 
 2. insert data = insert data on the database
 3. procedure query = a stored procedure to show data about frequency of menu being ordered
 
-<img src ="screenshots/result.PNG" width="450">
+<img src ="screenshots/result.png" width="450">
